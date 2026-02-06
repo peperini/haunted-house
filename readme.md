@@ -1,8 +1,9 @@
 # Haunted House
+## Experiment & Project part of a High-Level Curriculum
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Open in your terminal and run this followed commands:
 
 ``` bash
 # Install dependencies (only the first time)
